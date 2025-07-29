@@ -8,7 +8,7 @@ margin: 0;
 font-family: 'Segoe UI', sans-serif;
 }
 .calculadora{
-background-color:#333;
+background-color:#f1abd4;
 padding: 20px;
 border-radius:20px;
 box-shadow: 0 10px 25px;
@@ -36,7 +36,7 @@ padding: 20px;
 font-size: 20px;
 border: none;
 border-radius: 10px;
-background-color: #555;
+background-color: #bb0350;
 color: white;
 cursor: pointer;
 transition: 0.2s;
