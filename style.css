@@ -22,7 +22,7 @@ text-align: right;
 padding: 20px;
 border-radius: 10px;
 margin-bottom: 20px;
-box-shadow:inset 008px #0f0 ;
+box-shadow:inset 008px rgb(233, 78, 142) ;
 height: 60px;
 overflow-x: auto;
 }
