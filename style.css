@@ -37,7 +37,7 @@ font-size: 20px;
 border: none;
 border-radius: 10px;
 background-color: #bb0350;
-color: white;
+color: rgb(197, 185, 152);
 cursor: pointer;
 transition: 0.2s;
 }
