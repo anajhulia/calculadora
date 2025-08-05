@@ -43,16 +43,16 @@ transition: 0.2s;
 }
 
 button:hover {
-background-color: #777;
+background-color: #d671bd;
 }
 
 button.igual {
-background-color: #717275;
+background-color: #d671bd;
 grid-row: span 2;
 }
 
 button.igual:hover {
-background-color: #6e7272;
+background-color: #d671bd;
 }
 
 button.zero {
